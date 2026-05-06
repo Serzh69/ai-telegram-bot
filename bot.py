@@ -13,7 +13,7 @@ from telegram.ext import (
     ContextTypes,
 )
 
-TELEGRAM_TOKEN = "8755221835:AAGt_Pe2F7Kq2w45PFPqhFtgyjztgfZIA6s"
+TELEGRAM_TOKEN = "...."
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
